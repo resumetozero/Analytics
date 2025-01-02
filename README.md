@@ -29,8 +29,8 @@ The dataset used in this project is hosted on Google Sheets and can be accessed 
 
 3. **Data Analysis**:
    - Randomized columns such as `Home Reach`,`Hashtag_Reach` and `Explore Reach` are calculated based on the provided logic.
-   - Randomize username are generated
-   - Based on username the average engagement (Group by username) is calculated on the basis of which the sentiment coulmn gets divided being positive or negative
+   - Randomize `Username` are generated
+   - Based on username the average engagement (Group by `Username`) is calculated on the basis of which the `Sentiment` coulmn gets divided being positive or negative
    - Filtered data is saved to a `.csv` file for further use.
 
 ## Prerequisites
